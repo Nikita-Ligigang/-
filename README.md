@@ -1,5 +1,3 @@
-# -
-Тестирование Ростелеком
 from flask import Flask, url_for, request, render_template_string
 import pandas as pd
 
